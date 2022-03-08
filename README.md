@@ -1,3 +1,6 @@
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 # Amazon Pay for Alexa Demo
 This is a demo showing Amazon Pay for Alexa Skills.  
 
